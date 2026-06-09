@@ -1,0 +1,14 @@
+Name: John Doe
+
+Skills:
+Python
+HTML
+CSS
+SQL
+
+Projects:
+Web Scraper
+Excel Automation
+
+Education:
+BCA in AI and ML
